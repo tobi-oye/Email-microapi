@@ -22,6 +22,9 @@ Nwigwe Ifeanyi @ice
 Olawale Juwon  @OlawaleJuwonM
 Oyewole Oluwatobi @dev_thorby
 Oluwatayo Adegboye @Oluwatayo
+Olawale Juwon - @OlawaleJuwonM
+Abdulazeez Shittu - @abdulazeez.shittu
+Okafor Somtochukwu - @Somto
 Olawale Juwon  @OlawaleJuwonM
 Abdulazeez Shittu  @abdulazeez.shittu
 Ogunbanwo Opeyemi @papycoda
@@ -46,16 +49,10 @@ Francis Njike @Steam
 Emmanuel Omeogah @Nexta
 Lawal John @Jaybeloved
 otenaike oluwatobi @sylvercodez
+David Enoragbon @maximdave
 Adebayo Ilerioluwa @Adebayo
 Taiye Elelu @moh_elelu
-
-
-
-
-
-
-
-
+AbdulHameed Onibiyo @AbdulHameed
 
 
 
@@ -98,6 +95,10 @@ Nwokeocha Kennedy @Kennedy
 
 
 
+=======
+Aderibigbe Victor @Vade
+oluwaseun Abiola @Oluwaseun
+>>>>>>> f279f6687aceea2161caec5379e75f1356b17c7a
 
 
 

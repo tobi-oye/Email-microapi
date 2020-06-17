@@ -57,7 +57,8 @@ git checkout -b sylver-codez :white_check_mark:
 
 git checkout -b sylver codez :x:
 
-Once you are done writing the script and you have tested that everything is working perfectly fine (I.e your code has passed). (Optional: If you could make a screenshot of it and attach your pull request)
+Once you are done writing the script and you have tested that everything is working perfectly fine (I.e your code has passed). (Optional: If you could make a screenshot of it and attach your pull request)ensure you edit the contribution.txt before doing the git add .
+
 
 Run: git add .
 

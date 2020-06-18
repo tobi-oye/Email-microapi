@@ -1,72 +1,25 @@
 Adeyemi Oluwatobi @DevTobi
 AbdulJaleel AbdulSamad @AbdulSamad
-Chukwu Augustine  @Austin-Deccentric
+Chukwu Augustine - @Austin-Deccentric
+<<<<<<< HEAD
+Deep Antala
+otenaike oluwatobi - @sylvercodez
+=======
 Deep Antala @DeepAntala
-Caleb Jesusegun  @Caleb.Jesusegun
+Caleb Jesusegun - @Caleb.Jesusegun
 Badejo Adesire @Adesire
-Arbaaz Khan  @Arbaaz
-Odyssey 7uwole Dare  @dreywesson
-Abod Michael  @abodmicheal
-Emmanuel John  @starsh
+Arbaaz Khan - @Arbaaz
+Odyssey 7uwole Dare - @dreywesson
+Abod Michael - @abodmicheal
+Emmanuel John - @starsh
 Iworima God's delight - @delight
-Nwankwo Henry  @Kozino
+Nwankwo Henry - @Kozino
 Ekene Enyi @Coderblac
 Olawale Juwon - @OlawaleJuwonM
 Oyewole Oluwatobi @dev_thorby
 Oluwatayo Adegboye @Oluwatayo
+Olawale Juwon - @OlawaleJuwonM
 Abdulazeez Shittu - @abdulazeez.shittu
-Olawoyin-Yussuf Damilola A. - @Dami-Y.
-Lukman Okunade   @Lukman
-Iworima God's delight  @delight
-Nwigwe Ifeanyi @ice
-Okafor Somtochukwu - @Somto
-Ogunbanwo Opeyemi @papycoda
-Olatunji Olayemi @ Olatunji_
-Edun Elijah @Elijah
-Daramola Temitayo @Temitayo
-Olatunji Olayemi @Olatunji_
-abdul-jalil zakaria @abdul-jalil
-Mohammad Bilal @Bilal
-Amarachi Ogbonnaya @Amarachi
-Matthew Adeyemi @marly
-Ibitoye Modupe @Ibitoye Modupe
-Francis Njike @Steam
-Emmanuel Omeogah @Nexta
-Lawal John @Jaybeloved
-otenaike oluwatobi @sylvercodez
-David Enoragbon @maximdave
-Adebayo Ilerioluwa @Adebayo
-Taiye Elelu @moh_elelu
-AbdulHameed Onibiyo @AbdulHameed
-Taiwo Hammed @hammed
-Omagbemi Tosan  @Tosan
-Joseph Shalom @Shalom
-obarogie osas @osas
-Gaiya Mathias Obed  @Obed360
-Mary Enoch @eMary
-Nduaguba emma @kc emmanuel 
-Sylvester Agubata @Sylvester_Silver 
-Hamzat Ridwan @Hamzattech
-Araromi Haonat @Horlahjummy
-Aderibigbe Victor @Vade
-oluwaseun Abiola @Oluwaseun
-Nwokeocha Kennedy @Kennedy
-Ekene Chukwurah @Ekene.Chukwurah
-Okechukwu Michael Chukwude  @Okechukwu
-Ojora oyeyink  @Oyeyinka
-Adewumi Victor @Victor-Ade
-Emem Udoh @Emem07
-Adebisi Adullateef - @shinaayomi
-Dancan Ojijo -@Dancanojijo
-emmanuel nwabuodafi @emmanueltlom
-Chigozie Achumba-@Gozie
-Benjamin Olaoluwa   @lasunkanmi
-Philippa Olomoro @PhilippaOlomoro
-Anthony Naomi Jahsom-@Jahsom
-Ovobite Solomon @WealthcodeX
-Ovobite Precious @ovosphere
-Chukwurah Victor @webster
-Yezid Olanase -@Yezid
 
 
 
@@ -80,192 +33,7 @@ Yezid Olanase -@Yezid
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> 8803e21a63c5d93c0af7e2e4b2fd2e28af704f14
 
 
 

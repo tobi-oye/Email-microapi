@@ -8,6 +8,7 @@ class MailSerializer(serializers.Serializer):
     body = serializers.CharField()
     cc = serializers.CharField(required=False, allow_blank=True)
     bcc = serializers.CharField(required=False, allow_blank=True)
+    hour = serializers.CharField(required=False, allow_blank=True)
 
 class TemplateMailSerializer(MailSerializer):
     body = None

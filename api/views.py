@@ -7,11 +7,13 @@ from .serializers import MailSerializer, TemplateMailSerializer, UserSerializer
 from send_email_microservice.settings import SENDGRID_API_KEY
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.authtoken.models import Token
+from datetime import datetime
 
 MAIL_RESPONSES = {
     '200': 'Mail sent successfully.',
     '400': 'Incorrect request format.',
-    '500': 'An error occurred, could not send email.' 
+    '500': 'An error occurred, could not send email.',
+    '401': 'An error occurred. Unauthorized.'
 }
 
 class UserCreate(APIView):
@@ -74,7 +76,26 @@ class SendMailWithTemplate(APIView):
                 'data': { 'message': 'Incorrect request format.', 'errors': template_mail_sz.errors}
             }, status=status.HTTP_400_BAD_REQUEST)
 
-def send_email(request, options, is_html_template=False):
+class SendScheduledMail(APIView):
+
+    #permission_classes = (IsAuthenticated,)
+
+    @swagger_auto_schema(
+        request_body=MailSerializer,
+        operation_description="Sends email as plain text to recipient from sender.",
+        responses=MAIL_RESPONSES
+    )
+    def post(self, request):
+        mail_sz = MailSerializer(data=request.data)
+        if mail_sz.is_valid():
+            return send_email(request, mail_sz.validated_data,False,True)
+        else:
+            return Response({
+                'status': 'failure',
+                'data': { 'message': 'Incorrect request format.', 'errors': mail_sz.errors}
+            }, status=status.HTTP_400_BAD_REQUEST)
+
+def send_email(request, options, is_html_template=False, scheduled=False):
 
     def get_email_dict(emails, delimeter):
         return [{'email': email.strip()} for email in emails.split(delimeter)]
@@ -88,7 +109,29 @@ def send_email(request, options, is_html_template=False):
     else:
         body = options['body']
 
-    data = {
+    #to send the mail at a scheduled date
+    if(scheduled):
+        #get today's date 
+        current_time = datetime.now()
+        hours = options['hour']
+        hours_to_add = datetime.timedelta(hours = hours)
+        later_time = current_time + hours_to_add
+        #convert the time to timestamp
+        later_timestamp = datetime.timestamp(later_time)
+        data = {
+        'personalizations': [{
+            'to': [{'email': options['recipient']}],
+            'subject': options['subject'],
+            'send_at': later_timestamp
+        }],
+        'from': {'email': request.user.email},
+        'content': [{
+            'type': body_type,
+            'value': body
+        }],
+    }
+    else:
+        data = {
         'personalizations': [{
             'to': [{'email': options['recipient']}],
             'subject': options['subject']
@@ -118,3 +161,6 @@ def send_email(request, options, is_html_template=False):
         'status': 'success',
         'data': { 'message': 'Mail sent successfully.'}
     }, status=status.HTTP_200_OK)
+
+
+

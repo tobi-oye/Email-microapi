@@ -1,4 +1,4 @@
-## A Dockerized Micro-service for sending Email Notifications by Team-Fierce
+## A Dockerized Micro-service for sending Email Notifications by Team-microapi in conjuction with what team fierce did 
 
 ![alt text](https://res.cloudinary.com/echefulouis/image/upload/v1591716347/Capture_p1txz0.png)
 
@@ -39,4 +39,4 @@ Contributions are welcome and will be fully credited.
 We accept contributions via Pull Requests on Github
 
 # Credits:
-HNGi7 team-fierce backend
+HNGi7 team-fierce backend..would be working with team microapi 

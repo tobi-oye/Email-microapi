@@ -1,15 +1,19 @@
 Adeyemi Oluwatobi @DevTobi
 AbdulJaleel AbdulSamad @AbdulSamad
-Chukwu Augustine  @Austin-Deccentric
+Chukwu Augustine - @Austin-Deccentric
+<<<<<<< HEAD
+Deep Antala
+otenaike oluwatobi - @sylvercodez
+=======
 Deep Antala @DeepAntala
-Caleb Jesusegun  @Caleb.Jesusegun
+Caleb Jesusegun - @Caleb.Jesusegun
 Badejo Adesire @Adesire
-Arbaaz Khan  @Arbaaz
-Odyssey 7uwole Dare  @dreywesson
-Abod Michael  @abodmicheal
-Emmanuel John  @starsh
+Arbaaz Khan - @Arbaaz
+Odyssey 7uwole Dare - @dreywesson
+Abod Michael - @abodmicheal
+Emmanuel John - @starsh
 Iworima God's delight - @delight
-Nwankwo Henry  @Kozino
+Nwankwo Henry - @Kozino
 Ekene Enyi @Coderblac
 Lukman Okunade   @Lukman
 Iworima God's delight  @delight
@@ -28,43 +32,9 @@ Mohammad Bilal @Bilal
 Matthew Adeyemi @marly
 Ibitoye Modupe @Ibitoye Modupe
 Oyewole Oluwatobi @dev_thorby
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
->>>>>>> 07bfc79a5281afac0522af057653438de40dd6d4
+Olawale Juwon - @OlawaleJuwonM
+Oyewole Oluwatobi @dev_thorby
+Oluwatayo Adegboye @Oluwatayo
+Olawale Juwon - @OlawaleJuwonM
+Abdulazeez Shittu - @abdulazeez.shittu
+Ben Josiah-@Ben Josiah
